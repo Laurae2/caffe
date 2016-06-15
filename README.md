@@ -1,5 +1,7 @@
 # Caffe
 
+Edits by Laurae: use the regular Caffe implementation (not this one!), and go to https://github.com/Laurae2/recurrent-caffe/tree/recurrent/examples/coco_caption for the examples.
+
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
 It is developed by the Berkeley Vision and Learning Center ([BVLC](http://bvlc.eecs.berkeley.edu)) and community contributors.
 
